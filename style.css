@@ -25,7 +25,7 @@ html, body {
     height: 40%;
     margin: auto;
     content: '';
-    background-color: rgba(149, 152, 10, .63);
+    background-color: rgb(198, 202, 18);
     mix-blend-mode: multiply;
 }
 
